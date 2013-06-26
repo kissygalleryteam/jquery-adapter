@@ -1,0 +1,13 @@
+{
+    "name": "jquery-adapter",
+    "version": "1.0",
+    "desc": "kissy to jquery adapter",
+    "cover": "",
+    "author": {
+        "name": "dxq",
+        "email": "dxq613@gmail.com",
+        "page": "https://github.com/dxq613"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
